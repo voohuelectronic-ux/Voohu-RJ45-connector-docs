@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="I9CjzbDpxCEI15B89di_7LEqz4-62Pj82jJwkT4eujE" />
 # VOOHU RJ45 Connector – Technical Resources
 
 This repository contains engineering resources for **VOOHU RJ45 connectors**, including:
